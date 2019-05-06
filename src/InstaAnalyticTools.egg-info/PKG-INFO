@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: InstaAnalyticTools
+Version: 0.0.1
+Summary: Tools for 
+Home-page: UNKNOWN
+Author: Jason Ki
+Author-email: ki.jasonj@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: Instagram Analytics
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience ::  DevelopersTopic :: Utilities
+Classifier: Topic :: Computer Vision
+Classifier: Topic :: Machine Learning
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: <3.6

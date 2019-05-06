@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/InstaAnalyticTools.egg-info/PKG-INFO
+src/InstaAnalyticTools.egg-info/SOURCES.txt
+src/InstaAnalyticTools.egg-info/dependency_links.txt
+src/InstaAnalyticTools.egg-info/requires.txt
+src/InstaAnalyticTools.egg-info/top_level.txt
