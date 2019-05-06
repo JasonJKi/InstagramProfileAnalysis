@@ -20,9 +20,9 @@ num_followers = len(users_followers['username'])
 print(num_followers)
 
 
-data_dir = '../data/user/images'
+data_dir = '../data/user/'
 scraper = user.scraper
-scraper.usernames=[users_followers['username'][:100]]
+scraper.usernames=users_followers['username'][:100]
 scraper.scrape(file_dir=data_dir)
 matching = [s for s in users_followers['username'] if "jason.j.ki" in s]
 
